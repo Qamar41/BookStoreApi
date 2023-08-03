@@ -1,0 +1,31 @@
+Request: GET /health | Response Status: 200
+Request: GET /books | Response Status: 200
+Request: GET /books | Response Status: 200
+Request: GET /books | Response Status: 200
+Request: GET /books | Response Status: 200
+Request: GET /books | Response Status: 200
+Request: GET /health | Response Status: 200
+Request: GET /health | Response Status: 200
+Request: GET /health | Response Status: 200
+Request: GET /health | Response Status: 200
+Request: GET /tags | Response Status: 200
+Request: GET /users/admin | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: GET /health | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: GET /health | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: GET /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login | Response Status: 200
+Request: POST /auth/login
+Request: POST /auth/login
+Request: GET /books
